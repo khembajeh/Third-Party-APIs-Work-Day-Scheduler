@@ -27,3 +27,4 @@
 ## link for the web and repo
 
 * repo https://github.com/khembajeh/Third-Party-APIs-Work-Day-Scheduler
+* webiste: https://khembajeh.github.io/Third-Party-APIs-Work-Day-Scheduler/
